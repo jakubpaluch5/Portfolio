@@ -1,0 +1,6 @@
+[1219/102548.708:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1219/222335.831:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1220/102629.291:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1227/120056.279:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0108/091334.711:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0125/134637.874:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
